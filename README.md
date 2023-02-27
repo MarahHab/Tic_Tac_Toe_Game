@@ -1,2 +1,2 @@
 # Tic_Tac_Toe_Game
-open index.html to see my game 
+Tic Tac Toe game using javaSript , HTML and CSS
